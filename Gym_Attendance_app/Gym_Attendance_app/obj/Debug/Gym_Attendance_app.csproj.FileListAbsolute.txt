@@ -1,0 +1,17 @@
+C:\Users\casti\source\repos\Powerfull_Gym\Gym_Attendance_app\Gym_Attendance_app\bin\Debug\Gym_Attendance_app.exe.config
+C:\Users\casti\source\repos\Powerfull_Gym\Gym_Attendance_app\Gym_Attendance_app\bin\Debug\Gym_Attendance_app.exe
+C:\Users\casti\source\repos\Powerfull_Gym\Gym_Attendance_app\Gym_Attendance_app\bin\Debug\Gym_Attendance_app.pdb
+C:\Users\casti\source\repos\Powerfull_Gym\Gym_Attendance_app\Gym_Attendance_app\bin\Debug\EntityFramework.dll
+C:\Users\casti\source\repos\Powerfull_Gym\Gym_Attendance_app\Gym_Attendance_app\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\casti\source\repos\Powerfull_Gym\Gym_Attendance_app\Gym_Attendance_app\bin\Debug\EntityFramework.xml
+C:\Users\casti\source\repos\Powerfull_Gym\Gym_Attendance_app\Gym_Attendance_app\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\casti\source\repos\Powerfull_Gym\Gym_Attendance_app\Gym_Attendance_app\obj\Debug\Gym_Attendance_app.csproj.AssemblyReference.cache
+C:\Users\casti\source\repos\Powerfull_Gym\Gym_Attendance_app\Gym_Attendance_app\obj\Debug\Gym_Attendance_app.Properties.Resources.resources
+C:\Users\casti\source\repos\Powerfull_Gym\Gym_Attendance_app\Gym_Attendance_app\obj\Debug\Gym_Attendance_app.RJControls.RJTextBox.resources
+C:\Users\casti\source\repos\Powerfull_Gym\Gym_Attendance_app\Gym_Attendance_app\obj\Debug\Gym_Attendance_app.Views.Authentication.LoginView.resources
+C:\Users\casti\source\repos\Powerfull_Gym\Gym_Attendance_app\Gym_Attendance_app\obj\Debug\Gym_Attendance_app.csproj.GenerateResource.cache
+C:\Users\casti\source\repos\Powerfull_Gym\Gym_Attendance_app\Gym_Attendance_app\obj\Debug\Gym_Attendance_app.csproj.CoreCompileInputs.cache
+C:\Users\casti\source\repos\Powerfull_Gym\Gym_Attendance_app\Gym_Attendance_app\obj\Debug\Gym_Atte.ED47B876.Up2Date
+C:\Users\casti\source\repos\Powerfull_Gym\Gym_Attendance_app\Gym_Attendance_app\obj\Debug\Gym_Attendance_app.exe
+C:\Users\casti\source\repos\Powerfull_Gym\Gym_Attendance_app\Gym_Attendance_app\obj\Debug\Gym_Attendance_app.pdb
+C:\Users\casti\source\repos\Powerfull_Gym\Gym_Attendance_app\Gym_Attendance_app\obj\Debug\Gym_Attendance_app.Views.Authentication.Register.resources
