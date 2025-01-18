@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|solutionrelative:gym_attendance_app\\views\\authentication\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|c:\\users\\casti\\source\\repos\\powerfull_gym\\gym_attendance_app\\gym_attendance_app\\views\\authentication\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\gym_attendance_app\\views\\authentication\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|solutionrelative:gym_attendance_app\\views\\authentication\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -63,7 +63,7 @@
               "RelativeDocumentMoniker": "Gym_Attendance_app\\Views\\Authentication\\UtilsAuthentication.cs",
               "ToolTip": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\Views\\Authentication\\UtilsAuthentication.cs",
               "RelativeToolTip": "Gym_Attendance_app\\Views\\Authentication\\UtilsAuthentication.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAAC8AAABOAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowEIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-17T22:30:29.501Z",
               "EditorCaption": ""
@@ -89,8 +89,7 @@
               "ToolTip": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\Views\\Authentication\\Register.cs [Design]",
               "RelativeToolTip": "Gym_Attendance_app\\Views\\Authentication\\Register.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T04:48:41.195Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-16T04:48:41.195Z"
             },
             {
               "$type": "Document",
@@ -179,7 +178,7 @@
               "RelativeDocumentMoniker": "Gym_Attendance_app\\Views\\Authentication\\LoginView.cs",
               "ToolTip": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\Views\\Authentication\\LoginView.cs",
               "RelativeToolTip": "Gym_Attendance_app\\Views\\Authentication\\LoginView.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAwwEkAAACRAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwFsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T05:24:28.083Z",
               "EditorCaption": ""

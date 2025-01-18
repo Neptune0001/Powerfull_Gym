@@ -29,7 +29,7 @@ namespace Gym_Attendance_app.Views.Authentication
         {
             if (textBox.Texts == placeholder)
             {
-                textBox.Text = "";
+                textBox.Texts = "";
                 textBox.ForeColor = focusedColor;
                 textBox.Font = focusedFont;
             }

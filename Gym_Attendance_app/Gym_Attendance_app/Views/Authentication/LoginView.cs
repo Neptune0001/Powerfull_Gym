@@ -88,32 +88,7 @@ namespace Gym_Attendance_app.Views.Authentication
 
         private void btnShowHidePassword_Click(object sender, EventArgs e)
         {
-            // Validar si las imágenes existen
-            if (!File.Exists(showPasswordImage) || !File.Exists(hidePasswordImage))
-            {
-                MessageBox.Show("Las imágenes necesarias no se encontraron.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                return;
-            }
-
-            // Alternar estado del botón de mostrar/ocultar contraseña
-            if (btnShowHidePassword.BackgroundImage?.Tag?.ToString() == "Hidden")
-            {
-                btnShowHidePassword.BackgroundImage = Image.FromFile(showPasswordImage);
-                btnShowHidePassword.BackgroundImage.Tag = "Visible";
-                txtPassword.PasswordChar = false;
-            }
-            else
-            {
-                btnShowHidePassword.BackgroundImage = Image.FromFile(hidePasswordImage);
-                btnShowHidePassword.BackgroundImage.Tag = "Hidden";
-                txtPassword.PasswordChar = true;
-            }
-        }
-
-        // Método para establecer el estilo de fuente del campo de contraseña
-        private void SetPasswordFontStyle(bool isFocused)
-        {
-            txtPassword.Font = new Font("Montserrat Medium", 11.25f, isFocused ? FontStyle.Bold | FontStyle.Italic : FontStyle.Regular);
+            UtilsAuthentication.TogglePasswordVisibility(btnShowHidePassword, txtPassword, showPasswordImage, hidePasswordImage);
         }
 
         private void linkLabel1_Click(object sender, EventArgs e)
