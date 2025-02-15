@@ -3,43 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|c:\\users\\casti\\source\\repos\\powerfull_gym\\gym_attendance_app\\gym_attendance_app\\views\\authentication\\utilsauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|solutionrelative:gym_attendance_app\\views\\authentication\\utilsauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|c:\\users\\casti\\source\\repos\\powerfull_gym\\gym_attendance_app\\gym_attendance_app\\forms\\dashboard\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|solutionrelative:gym_attendance_app\\forms\\dashboard\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|c:\\users\\casti\\source\\repos\\powerfull_gym\\gym_attendance_app\\gym_attendance_app\\views\\authentication\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|solutionrelative:gym_attendance_app\\views\\authentication\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|c:\\users\\casti\\source\\repos\\powerfull_gym\\gym_attendance_app\\gym_attendance_app\\forms\\dashboard\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|solutionrelative:gym_attendance_app\\forms\\dashboard\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\gym_attendance_app\\views\\authentication\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|solutionrelative:gym_attendance_app\\views\\authentication\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\gym_attendance_app\\views\\authentication\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|solutionrelative:gym_attendance_app\\views\\authentication\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\gym_attendance_app\\views\\authentication\\loginview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|solutionrelative:gym_attendance_app\\views\\authentication\\loginview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\gym_attendance_app\\controllers\\authentication\\loginregiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|solutionrelative:gym_attendance_app\\controllers\\authentication\\loginregiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\gym_attendance_app\\rjcontrols\\rjbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|solutionrelative:gym_attendance_app\\rjcontrols\\rjbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\casti\\AppData\\Local\\Temp\\v2leddqb..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\gym_attendance_app\\dataaccess\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|solutionrelative:gym_attendance_app\\dataaccess\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\gym_attendance_app\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|solutionrelative:gym_attendance_app\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|c:\\users\\casti\\source\\repos\\powerfull_gym\\gym_attendance_app\\gym_attendance_app\\forms\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D4C8FFC-023E-43A7-96D1-8EC8F9ECB1DF}|Gym_Attendance_app\\Gym_Attendance_app.csproj|solutionrelative:gym_attendance_app\\forms\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,130 +31,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UtilsAuthentication.cs",
-              "DocumentMoniker": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\Views\\Authentication\\UtilsAuthentication.cs",
-              "RelativeDocumentMoniker": "Gym_Attendance_app\\Views\\Authentication\\UtilsAuthentication.cs",
-              "ToolTip": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\Views\\Authentication\\UtilsAuthentication.cs",
-              "RelativeToolTip": "Gym_Attendance_app\\Views\\Authentication\\UtilsAuthentication.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAowEIAAAANAAAAAAAAAA==",
+              "Title": "FormDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\Forms\\Dashboard\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "Gym_Attendance_app\\Forms\\Dashboard\\FormDashboard.cs",
+              "ToolTip": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\Forms\\Dashboard\\FormDashboard.cs",
+              "RelativeToolTip": "Gym_Attendance_app\\Forms\\Dashboard\\FormDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T22:30:29.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RJButton.cs",
-              "DocumentMoniker": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\RJControls\\RJButton.cs",
-              "RelativeDocumentMoniker": "Gym_Attendance_app\\RJControls\\RJButton.cs",
-              "ToolTip": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\RJControls\\RJButton.cs",
-              "RelativeToolTip": "Gym_Attendance_app\\RJControls\\RJButton.cs",
-              "ViewState": "AgIAAI8AAAAAAAAAAAAAwK0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:34:46.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Register.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\Views\\Authentication\\Register.cs",
-              "RelativeDocumentMoniker": "Gym_Attendance_app\\Views\\Authentication\\Register.cs",
-              "ToolTip": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\Views\\Authentication\\Register.cs [Design]",
-              "RelativeToolTip": "Gym_Attendance_app\\Views\\Authentication\\Register.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T04:48:41.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\App.config",
-              "RelativeDocumentMoniker": "Gym_Attendance_app\\App.config",
-              "ToolTip": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\App.config",
-              "RelativeToolTip": "Gym_Attendance_app\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-01-16T00:43:35.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DbConnection.cs",
-              "DocumentMoniker": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\DataAccess\\DbConnection.cs",
-              "RelativeDocumentMoniker": "Gym_Attendance_app\\DataAccess\\DbConnection.cs",
-              "ToolTip": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\DataAccess\\DbConnection.cs",
-              "RelativeToolTip": "Gym_Attendance_app\\DataAccess\\DbConnection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T00:36:52.263Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "v2leddqb..sql",
-              "DocumentMoniker": "C:\\Users\\casti\\AppData\\Local\\Temp\\v2leddqb..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\v2leddqb..sql",
-              "ToolTip": "C:\\Users\\casti\\AppData\\Local\\Temp\\v2leddqb..sql",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\v2leddqb..sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-01-14T02:10:56.083Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginRegisController.cs",
-              "DocumentMoniker": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\Controllers\\Authentication\\LoginRegisController.cs",
-              "RelativeDocumentMoniker": "Gym_Attendance_app\\Controllers\\Authentication\\LoginRegisController.cs",
-              "ToolTip": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\Controllers\\Authentication\\LoginRegisController.cs",
-              "RelativeToolTip": "Gym_Attendance_app\\Controllers\\Authentication\\LoginRegisController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T22:55:48.054Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginView.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\Views\\Authentication\\LoginView.Designer.cs",
-              "RelativeDocumentMoniker": "Gym_Attendance_app\\Views\\Authentication\\LoginView.Designer.cs",
-              "ToolTip": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\Views\\Authentication\\LoginView.Designer.cs",
-              "RelativeToolTip": "Gym_Attendance_app\\Views\\Authentication\\LoginView.Designer.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAAwBwBAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T07:41:25.033Z",
+              "WhenOpened": "2025-02-15T01:06:41.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LoginView.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\Views\\Authentication\\LoginView.cs",
-              "RelativeDocumentMoniker": "Gym_Attendance_app\\Views\\Authentication\\LoginView.cs",
-              "ToolTip": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\Views\\Authentication\\LoginView.cs [Design]",
-              "RelativeToolTip": "Gym_Attendance_app\\Views\\Authentication\\LoginView.cs [Design]",
+              "Title": "FormHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\Forms\\FormHome.cs",
+              "RelativeDocumentMoniker": "Gym_Attendance_app\\Forms\\FormHome.cs",
+              "ToolTip": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\Forms\\FormHome.cs [Design]",
+              "RelativeToolTip": "Gym_Attendance_app\\Forms\\FormHome.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:19:12.31Z",
+              "WhenOpened": "2025-02-15T00:31:31.728Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LoginView.cs",
-              "DocumentMoniker": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\Views\\Authentication\\LoginView.cs",
-              "RelativeDocumentMoniker": "Gym_Attendance_app\\Views\\Authentication\\LoginView.cs",
-              "ToolTip": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\Views\\Authentication\\LoginView.cs",
-              "RelativeToolTip": "Gym_Attendance_app\\Views\\Authentication\\LoginView.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAwwFsAAAAJAAAAAAAAAA==",
+              "Title": "FormDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\Forms\\Dashboard\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "Gym_Attendance_app\\Forms\\Dashboard\\FormDashboard.cs",
+              "ToolTip": "C:\\Users\\casti\\source\\repos\\Powerfull_Gym\\Gym_Attendance_app\\Gym_Attendance_app\\Forms\\Dashboard\\FormDashboard.cs [Design]",
+              "RelativeToolTip": "Gym_Attendance_app\\Forms\\Dashboard\\FormDashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:24:28.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T00:31:26.724Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

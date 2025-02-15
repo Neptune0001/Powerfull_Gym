@@ -1,5 +1,4 @@
-﻿using Gym_Attendance_app.Models.AuthenticationModel;
-using Gym_Attendance_app.Views.Authentication;
+﻿using Gym_Attendance_app.Views.Authentication;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,7 +17,7 @@ namespace Gym_Attendance_app
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new LoginView());
+            Application.Run(new FormLogin());
         }
     }
 }
