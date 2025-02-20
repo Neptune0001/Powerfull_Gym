@@ -1,7 +1,6 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Security.Cryptography;
-using System.Text;
 using System.Text.RegularExpressions;
 
 namespace Gym_Attendance_app.Entities
@@ -39,13 +38,12 @@ namespace Gym_Attendance_app.Entities
         }
 
         public string Email { get; set; }
-        public byte[] BiometricData { get; private set; }
-        public byte[] Password { get; private set; }
+        public byte[] BiometricData { get; set; }
+        public byte[] Password { get; set; }
+        public bool IsActive { get; set; } = true;
 
         [NotMapped]
-        public string PasswordN { get; set; } // Contraseña sin hash para procesamiento
-
-        public bool IsActive { get; set; } = true;
+        public string PasswordN { get; set; }
 
         public void SetPassword(string password)
         {
@@ -56,18 +54,18 @@ namespace Gym_Attendance_app.Entities
         {
             using (var rng = new RNGCryptoServiceProvider())
             {
-                byte[] salt = new byte[16]; // Genera un salt de 16 bytes
+                byte[] salt = new byte[16];
                 rng.GetBytes(salt);
 
                 using (var pbkdf2 = new Rfc2898DeriveBytes(password, salt, 100000, HashAlgorithmName.SHA256))
                 {
-                    byte[] hash = pbkdf2.GetBytes(32); // Hash de 256 bits (32 bytes)
-
+                    byte[] hash = pbkdf2.GetBytes(32);
                     byte[] hashWithSalt = new byte[salt.Length + hash.Length];
+
                     Array.Copy(salt, 0, hashWithSalt, 0, salt.Length);
                     Array.Copy(hash, 0, hashWithSalt, salt.Length, hash.Length);
 
-                    return hashWithSalt; // Devuelve el salt + hash como un solo array
+                    return hashWithSalt;
                 }
             }
         }
@@ -84,10 +82,10 @@ namespace Gym_Attendance_app.Entities
                 for (int i = 0; i < hash.Length; i++)
                 {
                     if (storedHash[i + 16] != hash[i])
-                        return false; // Si algún byte no coincide, la contraseña es incorrecta
+                        return false;
                 }
             }
-            return true; // La contraseña es correcta
+            return true;
         }
     }
 }
