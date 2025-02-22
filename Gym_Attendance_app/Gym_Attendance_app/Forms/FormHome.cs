@@ -66,7 +66,7 @@ namespace Gym_Attendance_app.Forms
         {
             if (currentBtn != null)
             {
-                currentBtn.BackColor = Color.FromArgb(34, 40, 49);
+                currentBtn.BackColor = Color.FromArgb(30, 41, 59);
                 currentBtn.ForeColor = Color.White;
                 currentBtn.TextAlign = ContentAlignment.MiddleLeft;
                 currentBtn.IconColor = Color.White;

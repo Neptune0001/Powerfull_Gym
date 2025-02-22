@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormHome));
             this.iconCurrentChildForm = new FontAwesome.Sharp.IconPictureBox();
             this.lblTitleChildForm = new System.Windows.Forms.Label();
             this.btnClose = new FontAwesome.Sharp.IconButton();
@@ -69,10 +68,11 @@
             // lblTitleChildForm
             // 
             this.lblTitleChildForm.AutoSize = true;
+            this.lblTitleChildForm.Font = new System.Drawing.Font("Montserrat ExtraBold", 9.749999F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitleChildForm.ForeColor = System.Drawing.Color.White;
-            this.lblTitleChildForm.Location = new System.Drawing.Point(42, 18);
+            this.lblTitleChildForm.Location = new System.Drawing.Point(41, 16);
             this.lblTitleChildForm.Name = "lblTitleChildForm";
-            this.lblTitleChildForm.Size = new System.Drawing.Size(38, 13);
+            this.lblTitleChildForm.Size = new System.Drawing.Size(54, 20);
             this.lblTitleChildForm.TabIndex = 1;
             this.lblTitleChildForm.Text = " Home";
             // 
@@ -129,7 +129,7 @@
             // 
             // panelTop
             // 
-            this.panelTop.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(40)))), ((int)(((byte)(49)))));
+            this.panelTop.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(41)))), ((int)(((byte)(59)))));
             this.panelTop.Controls.Add(this.btnMinimizeWindow);
             this.panelTop.Controls.Add(this.btnMaximizedWindow);
             this.panelTop.Controls.Add(this.btnClose);
@@ -144,7 +144,7 @@
             // 
             // panelMenu
             // 
-            this.panelMenu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(40)))), ((int)(((byte)(49)))));
+            this.panelMenu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(41)))), ((int)(((byte)(59)))));
             this.panelMenu.Controls.Add(this.btnSettings);
             this.panelMenu.Controls.Add(this.btnReports);
             this.panelMenu.Controls.Add(this.btnEmployees);
@@ -162,9 +162,10 @@
             this.btnSettings.Dock = System.Windows.Forms.DockStyle.Top;
             this.btnSettings.FlatAppearance.BorderSize = 0;
             this.btnSettings.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnSettings.ForeColor = System.Drawing.Color.White;
+            this.btnSettings.Font = new System.Drawing.Font("Montserrat Medium", 9.749999F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSettings.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(230)))), ((int)(((byte)(230)))));
             this.btnSettings.IconChar = FontAwesome.Sharp.IconChar.Wrench;
-            this.btnSettings.IconColor = System.Drawing.Color.White;
+            this.btnSettings.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(230)))), ((int)(((byte)(230)))));
             this.btnSettings.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnSettings.IconSize = 35;
             this.btnSettings.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -183,9 +184,10 @@
             this.btnReports.Dock = System.Windows.Forms.DockStyle.Top;
             this.btnReports.FlatAppearance.BorderSize = 0;
             this.btnReports.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnReports.ForeColor = System.Drawing.Color.White;
+            this.btnReports.Font = new System.Drawing.Font("Montserrat Medium", 9.749999F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnReports.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(230)))), ((int)(((byte)(230)))));
             this.btnReports.IconChar = FontAwesome.Sharp.IconChar.FileInvoice;
-            this.btnReports.IconColor = System.Drawing.Color.White;
+            this.btnReports.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(230)))), ((int)(((byte)(230)))));
             this.btnReports.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnReports.IconSize = 35;
             this.btnReports.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -204,9 +206,10 @@
             this.btnEmployees.Dock = System.Windows.Forms.DockStyle.Top;
             this.btnEmployees.FlatAppearance.BorderSize = 0;
             this.btnEmployees.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnEmployees.ForeColor = System.Drawing.Color.White;
+            this.btnEmployees.Font = new System.Drawing.Font("Montserrat Medium", 9.749999F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEmployees.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(230)))), ((int)(((byte)(230)))));
             this.btnEmployees.IconChar = FontAwesome.Sharp.IconChar.PeopleLine;
-            this.btnEmployees.IconColor = System.Drawing.Color.White;
+            this.btnEmployees.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(230)))), ((int)(((byte)(230)))));
             this.btnEmployees.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnEmployees.IconSize = 35;
             this.btnEmployees.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -225,9 +228,10 @@
             this.btnClients.Dock = System.Windows.Forms.DockStyle.Top;
             this.btnClients.FlatAppearance.BorderSize = 0;
             this.btnClients.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnClients.ForeColor = System.Drawing.Color.White;
+            this.btnClients.Font = new System.Drawing.Font("Montserrat Medium", 9.749999F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnClients.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(230)))), ((int)(((byte)(230)))));
             this.btnClients.IconChar = FontAwesome.Sharp.IconChar.PeopleGroup;
-            this.btnClients.IconColor = System.Drawing.Color.White;
+            this.btnClients.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(230)))), ((int)(((byte)(230)))));
             this.btnClients.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnClients.IconSize = 35;
             this.btnClients.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -246,9 +250,10 @@
             this.btnDashboard.Dock = System.Windows.Forms.DockStyle.Top;
             this.btnDashboard.FlatAppearance.BorderSize = 0;
             this.btnDashboard.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnDashboard.ForeColor = System.Drawing.Color.White;
+            this.btnDashboard.Font = new System.Drawing.Font("Montserrat Medium", 9.749999F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDashboard.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(230)))), ((int)(((byte)(230)))));
             this.btnDashboard.IconChar = FontAwesome.Sharp.IconChar.House;
-            this.btnDashboard.IconColor = System.Drawing.Color.White;
+            this.btnDashboard.IconColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(230)))), ((int)(((byte)(230)))));
             this.btnDashboard.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnDashboard.IconSize = 35;
             this.btnDashboard.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -274,7 +279,6 @@
             // btnHomePicture
             // 
             this.btnHomePicture.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.btnHomePicture.Image = ((System.Drawing.Image)(resources.GetObject("btnHomePicture.Image")));
             this.btnHomePicture.Location = new System.Drawing.Point(0, 0);
             this.btnHomePicture.Name = "btnHomePicture";
             this.btnHomePicture.Size = new System.Drawing.Size(200, 100);
@@ -285,7 +289,7 @@
             // 
             // panelShadow
             // 
-            this.panelShadow.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(24)))), ((int)(((byte)(30)))));
+            this.panelShadow.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(18)))), ((int)(((byte)(24)))));
             this.panelShadow.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelShadow.Location = new System.Drawing.Point(200, 50);
             this.panelShadow.Name = "panelShadow";
@@ -294,7 +298,7 @@
             // 
             // panelDesktop
             // 
-            this.panelDesktop.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(24)))), ((int)(((byte)(30)))));
+            this.panelDesktop.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(15)))), ((int)(((byte)(23)))), ((int)(((byte)(42)))));
             this.panelDesktop.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelDesktop.Location = new System.Drawing.Point(200, 59);
             this.panelDesktop.Name = "panelDesktop";
@@ -312,7 +316,7 @@
             this.Controls.Add(this.panelMenu);
             this.Controls.Add(this.panelTop);
             this.Name = "FormHome";
-            this.Opacity = 0.9D;
+            this.Opacity = 0.95D;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FormHome";
             this.Load += new System.EventHandler(this.FormHome_Load);
